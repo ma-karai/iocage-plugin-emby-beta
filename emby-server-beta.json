@@ -7,6 +7,7 @@
     },
   "pkgs": [
     "lang/mono",
+    "graphics/ImageMagick6",
     "multimedia/libass",
     "x11-fonts/fontconfig",
     "print/freetype2",
@@ -25,8 +26,7 @@
     "multimedia/x265",
     "multimedia/dav1d",
     "devel/libzvbi",
-    "graphics/libraw",
-    "graphics/ImageMagick6"
+    "graphics/libraw"    
   ],
   "packagesite": "https://pkg.freebsd.org/FreeBSD:11:amd64/latest",
   "fingerprints": {
