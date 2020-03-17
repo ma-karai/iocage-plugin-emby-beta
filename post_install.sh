@@ -9,4 +9,4 @@
 # Start the service
 #service emby-server start 2>/dev/null
 
-echo test
+
