@@ -9,6 +9,6 @@ From the FreeNas CLI (shell)
 LATEST BETA (27)
 
     cd /tmp
-    wget https://raw.githubusercontent.com/ma-karai/iocage-plugin-emby/beta-11.3/emby-server-beta.json
+    wget https://raw.githubusercontent.com/ma-karai/iocage-plugin-emby-beta/master/emby-server-beta.json
     iocage fetch -P emby-server-beta.json --branch 'beta-11.3' 
 
