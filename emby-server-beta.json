@@ -28,7 +28,7 @@
     "devel/libzvbi",
     "graphics/libraw"    
   ],
-  "packagesite": "https://pkg.freebsd.org/FreeBSD:11:amd64/latest",
+  "packagesite": "https://pkg.freebsd.org/${ABI}/latest",
   "fingerprints": {
         "iocage-plugins": [
             {
