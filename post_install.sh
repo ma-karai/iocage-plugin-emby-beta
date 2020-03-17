@@ -9,5 +9,3 @@ echo what is going on
 
 # Start the service
 #service emby-server start 2>/dev/null
-
-
