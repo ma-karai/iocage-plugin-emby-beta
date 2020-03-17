@@ -4,7 +4,7 @@
   "artifact": "https://github.com/ma-karai/iocage-plugin-emby-beta.git",
   "official": "false",
   "properties": {
-        "dhcp": "1",
+        "dhcp": 1,
         "allow_raw_sockets": "1"
     },
   "_comment": [
