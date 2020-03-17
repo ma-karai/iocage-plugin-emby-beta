@@ -30,6 +30,9 @@
     "devel/libzvbi",
     "graphics/libraw"    
   ],
+  "pkgs": [
+    "net/samba410",
+  ],
   "packagesite": "https://pkg.freebsd.org/${ABI}/latest",
   "fingerprints": {
     "plugin-default": [
