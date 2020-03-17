@@ -31,7 +31,7 @@
     "graphics/libraw"    
   ],
   "pkgs": [
-    "net/samba410",
+    "net/samba410"
   ],
   "packagesite": "https://pkg.freebsd.org/${ABI}/latest",
   "fingerprints": {
