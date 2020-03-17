@@ -1,5 +1,5 @@
 {
-  "name": "Emby-beta",
+  "name": "emby-server-beta",
   "release": "11.3-RELEASE",
   "branch": "master",
   "artifact": "https://github.com/ma-karai/iocage-plugin-emby-beta.git",
