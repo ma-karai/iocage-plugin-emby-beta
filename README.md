@@ -10,5 +10,5 @@ LATEST BETA (27)
 
     cd /tmp
     wget https://raw.githubusercontent.com/ma-karai/iocage-plugin-emby-beta/master/emby-server-beta.json
-    iocage fetch -P emby-server-beta.json --branch 'master' 
+    iocage fetch -P emby-server-beta.json 
 
